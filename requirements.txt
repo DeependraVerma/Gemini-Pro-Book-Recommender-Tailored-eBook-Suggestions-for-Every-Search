@@ -1,0 +1,12 @@
+langchain
+streamlit
+python-dotenv
+google-generativeai
+pymysql
+langchain_experimental
+sentence-transformers
+langchain_google_genai
+transformers
+accelerate
+sqlalchemy
+scikit-learn
